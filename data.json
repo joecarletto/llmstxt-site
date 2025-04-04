@@ -32,6 +32,14 @@
         "llms-txt-tokens": 3649
     },
     {
+        "product": "Adiacent SpA",
+        "website": "https://www.adiacent.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": ,
+        "llms-txt": "https://www.adiacent.com/llms.txt",
+        "llms-txt-tokens": 
+    },
+    {
         "product": "AI Squared",
         "website": "https://squared.ai/",
         "llms-full-txt": "https://docs.squared.ai/llms-full.txt",
